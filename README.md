@@ -46,3 +46,6 @@ It is designed by Altium Designer, and fully open–source. Now everyone can mak
 |R13|220kΩ (2203) ±1% 0.0625W [50V TYP] [100V MAX] T.C.R ±100|
 |R14|100kΩ (1003) ±1% 0.0625W [50V TYP] [100V MAX] T.C.R ±100|
 
+https://nodemcu.readthedocs.io/en/master/
+
+https://nodemcu-build.com/
