@@ -50,6 +50,8 @@ https://nodemcu.readthedocs.io/en/master/
 
 https://nodemcu-build.com/
 
+https://www.espressif.com/zh-hans/support/download/documents
+
 http://tinylab.org/nodemcu-kickstart/
 
 
